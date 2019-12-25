@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="118580" started-at="2019-11-15T10:48:14 IST" finished-at="2019-11-15T10:50:12 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="118580" started-at="2019-11-15T10:48:14 IST" finished-at="2019-11-15T10:50:12 IST">
+      <class name="com.pom.qa.TestCases.SiginpageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.qa.TestCases.SiginpageTest@f777e8]" name="setUp" is-config="true" duration-ms="16652" started-at="2019-11-15T10:49:19 IST" finished-at="2019-11-15T10:49:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PageSigninTest()[pri:0, instance:com.pom.qa.TestCases.SiginpageTest@f777e8]" name="PageSigninTest" duration-ms="4455" started-at="2019-11-15T10:49:36 IST" finished-at="2019-11-15T10:49:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageSigninTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pom.qa.TestCases.SiginpageTest@f777e8]" name="tearDown" is-config="true" duration-ms="1568" started-at="2019-11-15T10:49:40 IST" finished-at="2019-11-15T10:49:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.qa.TestCases.SiginpageTest@f777e8]" name="setUp" is-config="true" duration-ms="25472" started-at="2019-11-15T10:49:42 IST" finished-at="2019-11-15T10:50:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SigninTitleTest()[pri:0, instance:com.pom.qa.TestCases.SiginpageTest@f777e8]" name="SigninTitleTest" duration-ms="3493" started-at="2019-11-15T10:50:08 IST" finished-at="2019-11-15T10:50:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SigninTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pom.qa.TestCases.SiginpageTest@f777e8]" name="tearDown" is-config="true" duration-ms="1214" started-at="2019-11-15T10:50:11 IST" finished-at="2019-11-15T10:50:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pom.qa.TestCases.SiginpageTest -->
+      <class name="com.pom.qa.TestCases.MainpageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="setUp" is-config="true" duration-ms="24256" started-at="2019-11-15T10:48:14 IST" finished-at="2019-11-15T10:48:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="MainPageTitleTest()[pri:1, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="MainPageTitleTest" duration-ms="725" started-at="2019-11-15T10:48:38 IST" finished-at="2019-11-15T10:48:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="tearDown" is-config="true" duration-ms="2276" started-at="2019-11-15T10:48:39 IST" finished-at="2019-11-15T10:48:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="setUp" is-config="true" duration-ms="17593" started-at="2019-11-15T10:48:41 IST" finished-at="2019-11-15T10:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signinbtnvisibleTest()[pri:2, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="signinbtnvisibleTest" duration-ms="921" started-at="2019-11-15T10:48:59 IST" finished-at="2019-11-15T10:49:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinbtnvisibleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="tearDown" is-config="true" duration-ms="1130" started-at="2019-11-15T10:49:00 IST" finished-at="2019-11-15T10:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="setUp" is-config="true" duration-ms="16326" started-at="2019-11-15T10:49:01 IST" finished-at="2019-11-15T10:49:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SiginBtnClickTest()[pri:3, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="SiginBtnClickTest" duration-ms="1380" started-at="2019-11-15T10:49:17 IST" finished-at="2019-11-15T10:49:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiginBtnClickTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pom.qa.TestCases.MainpageTest@1ec2012]" name="tearDown" is-config="true" duration-ms="1009" started-at="2019-11-15T10:49:18 IST" finished-at="2019-11-15T10:49:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pom.qa.TestCases.MainpageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
